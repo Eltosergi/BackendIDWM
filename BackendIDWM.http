@@ -1,0 +1,6 @@
+@BackendIDWM_HostAddress = http://localhost:5131
+
+GET {{BackendIDWM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
