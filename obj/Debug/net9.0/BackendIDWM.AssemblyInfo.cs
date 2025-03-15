@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackendIDWM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55cc64492933c1eace5c1d195d5b01b65a7805b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2c0602e9a3258f78e8dad96fdbdacbbdeaeb686")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackendIDWM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackendIDWM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
